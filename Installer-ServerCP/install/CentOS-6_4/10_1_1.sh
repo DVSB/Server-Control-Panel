@@ -443,8 +443,24 @@ echo -e "#                                                            #" &>/dev/
 echo -e "##############################################################" &>/dev/tty
 echo -e "" &>/dev/tty
 
-# We now request that the user restarts their server...
+# Install Repro-Browser!
+echo ""
+echo "The ZPanel Upgrade script install Modul Repro-Browser"
+echo "Do you want to install the repro browser"
+echo "Type (Y)for Yes or (N) for No"
+echo ""
 while true; do
+read -e -p "Would you like to continue with the upgrade now (y/n)? " yn
+    case $yn in
+		[Yy]* ) break;;
+		[Nn]* ) exit;
+	esac
+done
+zppy repo add rustus.txt-clan.com
+zppy update
+zppy install repo_browser
+
+# We now request that the user restarts their server...
 read -e -p "Restart your server now to complete the install (y/n)? " rsn
 	case $rsn in
 		[Yy]* ) break;;

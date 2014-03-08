@@ -17,15 +17,15 @@ Documentation https://github.com/DVSB/Server-Control-Panel/installers/tree/maste
 
 Install CentOS 6.4 64Bit
 
-bash <(curl -Ss https://raw.github.com/DVSB/zpanel/master/install/CentOS-6_4/10_1_1.sh)
+bash <(curl -Ss https://raw.github.com/DVSB/Server-Control-Panel/tree/master/Installer-ServerCP/install/CentOS-6_4/10_1_1.sh)
 
 Installation for Ubuntu 12.04 LTS is just as simple too...
 
-bash <(curl -Ss https://raw.github.com/zpanel/installers/master/install/Ubuntu-12_04/10_1_1.sh)
+bash <(curl -Ss https://raw.github.com/DVSB/Server-Control-Panel/tree/master/Installer-ServerCP/install/Ubuntu-12_04/10_1_1.sh)
 
 ...and to upgrade your server (for example from ZPanel 10.1.0 to 10.1.1):-
 
-bash <(curl -Ss https://raw.github.com/zpanel/installers/master/upgrade/Ubuntu-12_04/10_1_1.sh)
+bash <(curl -Ss https://raw.github.com/DVSB/Server-Control-Panel/tree/master/Installer-ServerCP/upgrade/Ubuntu-12_04/10_1_1.sh)
 
 Officially supported Operating Systems
 

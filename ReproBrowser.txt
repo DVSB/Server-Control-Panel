@@ -1,0 +1,99 @@
+NOTICE: Remove packages.zpanelcp.com from your list: zppy repo remove packages.zpaenlcp.com
+
+Here is a listing of many of the available modules: http://docs.zpanelcp.com/?node=42
+
+ZPPY Repositories:
+modules.zpanelcp.com/repo - ZantasticoX, hMail Admin, THT_Admin, THT_Client, phpMyAdmin Updater, ZXTS Translation module. (online)
+zppy.bobbyallen.me ballen's repo
+rustus.txt-clan.com rutus repo
+repo.jkmods.tk jollyjoke repo
+zpx.imerlabs.com modpluz repo
+repo.dirt-cheap-hosting.co.nz PS2Guy repo
+zppy.info.tm baldman repo
+zppy.alineofcode.co.uk VJftw repo
+zpxmod.net.tf/filebox/zpp jd1pinoy repo
+jaspertjeh.host-ed.me Jaspertjeh repo
+brownweb.com.au/zpanel Brownweb repo
+repo.flectsearch.co.uk (offline)
+zpanel-packages.sammottley.co.uk motters repo
+zpx.hebergekimpe.fr new repo andykimpe
+dtrepair.com/modules davetom13 repo
+zppy.botops.net
+cdn.grendelhosting.com/zppy i7Grendel repo
+
+
+
+
+
+
+Ein großes Dankeschön an Markwow, der die erste Liste zusammengestellt.
+
+ 
+
+Lesen Sie immer die POST, BEVOR SIE! Einige dieser Module HABEN mehreren Schritten zu installieren!
+
+Aktualisieren 2013.04.09: Wegen der Migration des Forums von vBulletin zu MyBB, wurde die Verbindungen unterbrochen. :-( Sie wurden aktualisiert und ein paar Module aufgenommen.
+
+Modulverzeichnis
+
+Modulname	 Schöpfer	 Quelle	 Rufname
+Auto Billing Solution One	 PS2Guy	 repo.zpanel.co.nz	 Abrechnung
+MyWebSQL	 PS2Guy	 repo.zpanel.co.nz	 mywebsql
+Kostenloser Help Desk	 PS2Guy	 repo.zpanel.co.nz	 help_desk
+phpMyAdmin-Update	 VJftw	 zppy.alineofcode.co.uk	 phpMyAdmin
+AjaXplorer	 VJftw	 zppy.alineofcode.co.uk	 AjaXplorer
+AW Stats	 VJftw	 zppy.alineofcode.co.uk	 aw_stats
+Fail2Ban	 Brownweb	 brownweb.com.au / zpanel	 fail2ban
+Holzspalter	 Brownweb	 brownweb.com.au / zpanel	 Holzspalter
+Apache-Status einfach	 xmaxmex	 N / A	 N / A
+Linux-Server-Informationen	 xmaxmex	 N / A	 N / A
+Linux-System Prozess	 xmaxmex	 N / A	 N / A
+MySQL Bericht Linux	 xmaxmex	 N / A	 N / A
+SSH-Java-Client	 xmaxmex	 N / A	 N / A
+Log Viewer	 modpluz	 zpx.imerlabs.com	 logviewer
+Subversion	 modpluz	 zpx.imerlabs.com	 Subversion
+Domain-Weiterleitung	 modpluz	 zpx.imerlabs.com	 domain_forwarder
+xBilling	 modpluz	 zpx.imerlabs.com	 xbilling
+Meine Rechnungen (für XBilling)	 modpluz	 zpx.imerlabs.com	 MyInvoices
+Domain-Transfer-Modul	 modpluz	 zpx.imerlabs.com	 transfer_domain
+ZGodX	 jollyjoke	 repo.jkmods.tk	 zgodx
+Theme Manager X	 jollyjoke	 repo.jkmods.tk	 theme_manager_x
+Mibew Messenger Open-Source-Live Support	 Jaspertjeh	 jaspertjeh.host-ed.me	 mibew_live_support
+Schnittlauch	 Jaspertjeh	 jaspertjeh.host-ed.me	 Schnittlauch
+Webmail Erweiterte	 andykimpe	 andy.kimpe.free.fr / zpx	 Webmail
+HMailServer PHP Web Admin	 andykimpe	 andy.kimpe.free.fr / zpx	 hMailServer
+SquirrelMail	 Flectron	 repo.flectsearch.co.uk	 SquirrelMail_Linux
+Zantastico X	 tgates	 modules.zpanelcp.com / repo	 zantasticox
+HMail Admin	 tgates	 modules.zpanelcp.com / repo	 hmail_admin
+THT Admin	 tgates	 modules.zpanelcp.com / repo	 tht_admin
+THT-Client	 tgates	 modules.zpanelcp.com / repo	 tht_client
+Themenauswahl	 MathDerVakker	 N / A	 N / A
+MySysInfo	 MathDerVakker	 N / A	 N / A
+Links-Modul	 baldman	 zppy.info.tm	 Links, links_data, links_manager
+Systemdateien-Modul (nur Windows)	 baldman	 zppy.info.tm	  
+Support-Ticket-Modul (WIN)	 JD1PINOY	 zpxmod.net.tf / filebox /	 support_ticket1
+Support-Ticket-Modul (LINUX)	 JD1PINOY	 zpxmod.net.tf / filebox /	 support_ticket2
+Google Apps External Mail	 JD1PINOY	 zpxmod.net.tf / filebox /	 google_apps
+Windows Live Mail (WIN)	 JD1PINOY	 zpxmod.net.tf / filebox /	 wlive_admin
+Windows Live Mail (LINUX)	 JD1PINOY	 zpxmod.net.tf / filebox /	 llive_admin
+SSH-Administrator-Konsole	 JD1PINOY	 zpxmod.net.tf / filebox /	 ssh_module
+DNS-Checker	 JD1PINOY	 zpxmod.net.tf / filebox /	 dns_checker
+Einfache eBay Suche	 davetom13	 dtrepair.com / modules	 ebay
+Meine Spotify Playlist	 davetom13	 dtrepair.com / modules	 spotify
+zShell (nur Linux)	 davetom13	 dtrepair.com / modules	 zshell
+ZXTS	 motters	 zpanel-packages.sammottley.co.uk	 ZXTS
+Repository Browser und dedizierten Thread	 rustus	 rustus.txt-clan.com	 repo_browser
+Apache-Status	 rustus	 rustus.txt-clan.com	 apache_status
+Dropbox Uploader	 rustus	 rustus.txt-clan.com	 zp_dropbox
+AutoIP	 rustus	 rustus.txt-clan.com	 AutoIP
+System Logviewer	 rustus	 rustus.txt-clan.com	 system_logviewer
+Kae Datei-Manager	 rustus	 rustus.txt-clan.com	 kfm
+FTP-Browser	 rustus	 rustus.txt-clan.com	 ftp_browser
+Besucherstatistik	 rustus	 rustus.txt-clan.com	 visitor_stats
+Netzstecker	 ballen	 zppy.bobbyallen.me	 Netzteil
+Gate Keeper	 ballen	 zppy.bobbyallen.me	 Pförtner
+SQLBuddy	 ballen	 zppy.bobbyallen.me	 sqlbuddy
+Optomiza	 ballen	 zppy.bobbyallen.me	 optomiza
+ 
+
+Siehe auch http://modules.zpanelcp.com . Es ist das öffentliche Modul-Repository, das Vorrang vor der Liste oben, sobald alle Autor würde ihre Module in ihn registriert haben nehmen würde ..

@@ -17,7 +17,7 @@ Documentation https://github.com/DVSB/Server-Control-Panel/installers/tree/maste
 
 Install CentOS 6.4 64Bit
 
-bash <(curl -Ss https://raw.github.com/DVSB/Server-Control-Panel/tree/master/Installer-ServerCP/install/CentOS-6_4/10_1_1.sh)
+bash <(curl -Ss https://raw.github.com/DVSB/Server-Control-Panel/master/Installer-ServerCP/install/CentOS-6_4/10_1_1.sh)
 
 Installation for Ubuntu 12.04 LTS is just as simple too...
 
